@@ -1,3 +1,3 @@
 output "provider_selected" {
-value = var.cloud
+  value = var.cloud
 }
